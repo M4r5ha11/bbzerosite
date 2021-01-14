@@ -1,6 +1,5 @@
 body {
 	background-color: #102027;
-	 /* https://cdn.discordapp.com/avatars/573119175829225482/717b834ffd9ac2f1cd62c69d278cc8f0.webp?size=2048 */
 }
 .header {
 	font-family: Source Code Pro, Consolas, monospace;
@@ -32,7 +31,7 @@ body {
 	transition: .100500s;
 	transition-property: all;
 	border-radius: 10px;
-	background-color: #fff; /* #2c2f33 - black */
+	background-color: #fff;
 	color: #000;
 	padding: 20px;
 }
